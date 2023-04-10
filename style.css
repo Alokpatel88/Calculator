@@ -16,10 +16,10 @@ body {
     box-shadow: rgba(231, 0, 0, 0.71) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
   }
   .button:hover {background-color: #13b1c2be}
-  
+
   .button:active {
-    background-color: #3e8e41;
-    box-shadow: 0 5px #666;
+    background-color: #30f633;
+    box-shadow: 0 5px #8ed513;
     transform: translateY(4px);
   }
   .button {
@@ -31,7 +31,7 @@ body {
     font-size: 25px;
     border-radius: 50%;
     cursor: pointer;
-    background-color: gray;
+    background-color: rgb(153, 158, 43);
   }
   
   .row {
